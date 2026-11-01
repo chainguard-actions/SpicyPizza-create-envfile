@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v2.0.3 | [`v2.0.3`](https://github.com/chainguard-actions/SpicyPizza-create-envfile/tree/v2.0.3) | [`ace6d4f`](https://github.com/SpicyPizza/create-envfile/commit/ace6d4f5d7802b600276c23ca417e669f1a06f6f) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v2.0.3 | [`v2.0.3`](https://github.com/chainguard-actions/SpicyPizza-create-envfile/tree/v2.0.3) | [`ace6d4f`](https://github.com/SpicyPizza/create-envfile/commit/ace6d4f5d7802b600276c23ca417e669f1a06f6f) | [`HARDENING.md`](https://github.com/chainguard-actions/SpicyPizza-create-envfile/blob/v2.0.3/HARDENING.md) |
 
 ## Privacy
 
